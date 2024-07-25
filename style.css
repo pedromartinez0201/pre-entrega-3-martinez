@@ -1,0 +1,16 @@
+#peliculas-container, #carrito-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.pelicula {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+}
+
+.cantidad-input {
+    width: 40px;
+}
+

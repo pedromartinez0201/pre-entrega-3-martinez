@@ -1,0 +1,9 @@
+[
+  { "id": 1, "titulo": "Spider-Man: Across the Spider-Verse", "precio": 800 },
+  { "id": 2, "titulo": "Transformers: Rise of the Beasts", "precio": 750 },
+  { "id": 3, "titulo": "The Flash", "precio": 700 },
+  { "id": 4, "titulo": "Elemental", "precio": 650 },
+  { "id": 5, "titulo": "Indiana Jones and the Dial of Destiny", "precio": 900 }
+  
+]
+
